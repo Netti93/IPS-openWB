@@ -1,0 +1,19 @@
+{
+    "translations": {
+        "de": {
+            "Immediately": "Sofort",
+            "Min+PV": "Min+PV",
+            "Only PV": "Nur PV",
+            "Stop": "Stop",
+            "Standby": "Standby",
+            "Charge Mode": "Lade Modus",
+            "Min Current PVMin": " Mindestladung PVMin",
+            "Simulate RFID": "RFID simulieren",
+            "Power all Charge Points": "Leistung aller Ladepunkte",
+            "Power all Charge Points in kW": "Leistung aller Ladepunkte in kW",
+            "House Consumption": "Verbrauch Haushalt",
+            "Counter All ChargePoints": "Zähler aller Ladepunkte",
+            "Price for KWh": "Preis pro KWh"
+        }
+    }
+}
